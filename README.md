@@ -5,6 +5,8 @@ Repository ini berisi tentang hasil belajar dari praktik industri. pada project 
 Bastian Arfianto (18050623002)
 Risa Amalia (18050623019)
 Dardiri Novar Reviansyah (18050623026)
+
+
 ---------------------------- Langkah-langkah Clone Repo -----------------------------------
 
 Pastikan sudah punya github (Buat jika belum)
